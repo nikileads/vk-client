@@ -1,13 +1,13 @@
 {
-    "name": "atehnix/vk-client",
-    "description": "PHP client for Vk.com API",
+    "name": "nikileads/vk-client",
+    "description": "PHP client for Vk.com API. Forked from atehnix/vkclient. Original author atehnix@gmail.com",
     "keywords": ["php", "api", "client", "vk", "vk.com", "vkontakte"],
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "ATehnix",
-            "email": "atehnix@gmail.com"
+            "name": "Nikileads,
+            "email": "nikitazaykov@gmail.com"
         }
     ],
     "require": {
