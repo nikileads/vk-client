@@ -7,8 +7,9 @@
 ## Installation
 
 You can get library and all of it dependencies through [composer](https://getcomposer.org/)
+It is fork to use with current VK Api from atehnix/vk-client
 
-`composer require atehnix/vk-client`
+`composer require nikileads/vk-client`
 
 ## Usage
 
